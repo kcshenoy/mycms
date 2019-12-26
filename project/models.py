@@ -28,3 +28,4 @@ class ProjectPage(Page):
         FieldPanel('intro'),
         FieldPanel('body', classname="full"),
     ]
+    
